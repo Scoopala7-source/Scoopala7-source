@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hi!!
-
-![Tangled Activity](https://tangled-activity.vercel.app/api/graph?account=aesth.lol&range=12)
-
+hi!!  
 i make stuff sometimes. and by sometimes i mean a lot.
 
-pronouns: any/all (EXCEPT IT/ITS)
+- pronouns: any/all (EXCEPT IT/ITS)
+
+  
+![Tangled Activity](https://tangled-activity.vercel.app/api/graph?account=aesth.lol&range=12) 
