@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **Scoopala7-source/Scoopala7-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
