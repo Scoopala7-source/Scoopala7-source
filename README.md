@@ -18,6 +18,6 @@ hi!!
 i make stuff sometimes. and by sometimes i mean a lot.
 
 - pronouns: any/all (EXCEPT IT/ITS)
-
+- i'm on the team for the birdvirus bot (dont ask) & goground!
   
 ![Tangled Activity](https://tangled-activity.vercel.app/api/graph?account=aesth.lol&range=12) 
